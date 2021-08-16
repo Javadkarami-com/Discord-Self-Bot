@@ -4,7 +4,6 @@ const app = express();
 const port = 3000;
 app.get('/', (req, res) => res.send('Bot Is Working Well!'));
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
-
 // =============== Bot ===============
 const Discord  = require('discord.js-self');
 var fs = require('fs');
@@ -86,7 +85,6 @@ fs.readFile('./package.json', 'utf8', function(err, contents) {
 });
 });  
 
-// =============== End Of Message Event ===============
 
 
 

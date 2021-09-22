@@ -5,4 +5,5 @@ fill requirement (like Token, owner id ...)</br>
 Dont forget to use:</br>
 npm init </br>
 npm i </br>
-npm i discord.js-self</br>
+npm i discord.js-self</br></br>
+After all type `node index.js`

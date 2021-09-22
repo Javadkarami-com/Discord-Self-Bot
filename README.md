@@ -6,4 +6,4 @@ Dont forget to use:</br>
 `npm init `</br>
 `npm i `</br>
 `npm i discord.js-self`</br></br>
-After all type `node index.js`
+After all type this on Terminal `node index.js`

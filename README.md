@@ -4,7 +4,7 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/discord-bot.git
+git clone https://github.com/Javadkarami-com/discord-bot.git
 ```
 
 2. Install the required dependencies:
